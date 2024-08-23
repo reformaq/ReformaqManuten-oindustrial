@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.reformaqbrasil.com.br	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1724195315|fz2T0GCG-9q4
+www.reformaqbrasil.com.br	TRUE	/	FALSE	1999999999	SameSite	None
+www.reformaqbrasil.com.br	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly_42_g
+.whatsapp.com	TRUE	/	FALSE	1999999999	wa_lang_pref	ko
+
